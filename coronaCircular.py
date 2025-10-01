@@ -1,3 +1,11 @@
+print("""
+     ██      ██ 
+     ██      ██ 
+     ██      ██ 
+██   ██ ██   ██ 
+ █████   █████                               
+""")
+print("Jhin Jeremy 22")
 print("Corona circular")
 radio_ma = float(input("Ingrese radio mayor: "))
 radio_me = float(input("Ingrese radio menor: "))
